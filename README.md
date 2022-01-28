@@ -7,7 +7,7 @@ This is a room scanning system scans a 3D space and creates an interactive of th
 The microcontroller, which is programmed in C, uses serial communciation to send the collected data to a Python program, which uses the Open3D library to create an interactive point cloud.
 
 *Expected Scanned Output*
-![image](Pictures/Expected_Output.jpg)
+![image](Pictures/Expected_Putput.jpg)
 
 
 *Point Cloud Output*
